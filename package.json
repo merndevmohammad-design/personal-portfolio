@@ -1,9 +1,9 @@
 {
-  "name": "aq-portfolio",
+   "name": "aq-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://merndevmohammad-design.github.io/personal-portfolio",
+  "homepage": "https://merndevmohammad-design.github.io/personal-portfolio/", 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
